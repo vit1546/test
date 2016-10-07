@@ -1,0 +1,23 @@
+{
+  "name": "eqw",
+  "homepage": "qwe",
+  "authors": [
+    "qwe"
+  ],
+  "description": "qwe",
+  "main": "qwe",
+  "keywords": [
+    "qwe"
+  ],
+  "license": "qwe",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.8"
+  }
+}
